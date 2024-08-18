@@ -25,8 +25,8 @@ Además, mi dominio de herramientas como **Photoshop** y conocimientos en diseñ
 <br/>  
 
 ## Datos personales
-- **Correo Electrónico:** chofiikauffer@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/sofia-kauffer/
+**Correo Electrónico:** chofiikauffer@gmail.com
+**LinkedIn:** https://www.linkedin.com/in/sofia-kauffer/
   
 
 ## Idiomas y herramientas
