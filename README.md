@@ -22,25 +22,7 @@ Desde siempre, he tenido una gran fascinación por el **diseño** y la **inform�
 
 Además, mi dominio de herramientas como **Photoshop** y conocimientos en diseño gráfico me permiten integrar perfectamente la funcionalidad con un diseño visual atractivo. Me especializo en desarrollar sitios web que no solo destacan por su rendimiento, sino también por su diseño responsivo y accesible.
 
-  
-  
-
 <br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
 
 ## Languages and Tools  
 <div align="center">  
@@ -68,31 +50,3 @@ Además, mi dominio de herramientas como **Photoshop** y conocimientos en diseñ
 
 <br/>  
 
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKaufferSofia&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
