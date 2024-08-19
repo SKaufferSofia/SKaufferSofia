@@ -23,10 +23,6 @@ Desde siempre, he tenido una gran fascinación por el **diseño** y la **inform�
 Además, mi dominio de herramientas como **Photoshop** y conocimientos en diseño gráfico me permiten integrar perfectamente la funcionalidad con un diseño visual atractivo. Me especializo en desarrollar sitios web que no solo destacan por su rendimiento, sino también por su diseño responsivo y accesible.
 
 <br/>  
-
-## Datos personales
-**Correo Electrónico:** chofiikauffer@gmail.com
-**LinkedIn:** https://www.linkedin.com/in/sofia-kauffer/
   
 
 ## Idiomas y herramientas
